@@ -21,5 +21,13 @@ public class LearningArrays {
 
         System.out.println(words[1]);
 
+        /*
+        Collections.sort() and Arrays.sort()
+
+        1. Use Collections.sort() method to sort a list of objects.
+
+        2. Use Arrays.sort() method to sort an array of objects.
+         */
+
     }
 }

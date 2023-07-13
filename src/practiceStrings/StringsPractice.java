@@ -41,8 +41,6 @@ public class StringsPractice {
         // returns the index number where the sequence begins, searches for the characters from the end to the beginning of the string
 
 
-
-
         int index4 = test.indexOf("yogi");
 
 
